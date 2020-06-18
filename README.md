@@ -2,7 +2,7 @@
 4ème projet de la formation de [développeur web de OpenClassrooms](https://openclassrooms.com/fr/paths/185-developpeur-web)
 
 ## Scénario et objectifs
-L'objectif est d'optimiser (SEO et accessibilité) le site web déjà existant de l'agence web "La Chouette Agence". Puis comparer les 2 versions du site.
+L'objectif est d'analyser et d'optimiser (SEO et accessibilité) le site web déjà existant de l'agence web "La Chouette Agence". Puis comparer les 2 versions du site.
 
 ## Livrables
 - Une analyse du SEO
