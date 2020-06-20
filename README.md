@@ -17,9 +17,8 @@ L'objectif est d'analyser et d'optimiser (SEO et accessibilité) le site web dé
 
 ## Hébergement des sites sur Google Firebase
 ### Version initiale du site web
-- Project Console: https://console.firebase.google.com/project/chouetteagence-initial/overview  
+- Project Console (authentification requise): https://console.firebase.google.com/project/chouetteagence-initial/overview  
 - Hosting URL: https://chouetteagence-initial.web.app
 ### Version optimisée du site web
-- Project Console: https://console.firebase.google.com/project/chouetteagence-optimised/overview  
+- Project Console (authentification requise) https://console.firebase.google.com/project/chouetteagence-optimised/overview  
 - Hosting URL: https://chouetteagence-optimised.web.app
-OptimisedWebsite
