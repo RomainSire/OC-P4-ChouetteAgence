@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: #ffffff!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -738,6 +738,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
+.darkgrey {
+    color: #333!important;
+}
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -775,12 +778,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #303030!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1046,6 +1049,9 @@ blockquote p {
     margin-right: 2em;
     font-style: italic;
     font-size: 1.15em;
+}
+blockquote footer {
+    color: #333;
 }
 blockquote footer::before {
     content: "";
