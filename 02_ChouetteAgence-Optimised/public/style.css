@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 14px;
 }
 
 .tight-width-whitespace {
@@ -1039,4 +1039,14 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+
+blockquote p {
+    margin-left: 2em;
+    margin-right: 2em;
+    font-style: italic;
+    font-size: 1.15em;
+}
+blockquote footer::before {
+    content: "";
 }
