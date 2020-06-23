@@ -1,0 +1,10 @@
+Les codes sources et les livrables sont disponibles sur GitHub :
+https://github.com/RomainSire/OC-P4-ChouetteAgence
+
+La version initiale du site est hébergée sur Firebase à l'adresse :
+https://chouetteagence-initial.web.app/
+
+La version optimisée du site est également hébergée sur Firebase à l'adresse :
+https://chouetteagence-optimised.web.app/
+
+
